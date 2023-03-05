@@ -27,9 +27,12 @@ Visit http://localhost:3000 on your browser <br>
   -----------
   
   #🚀 Preview!
+
 ![blog](https://user-images.githubusercontent.com/85272477/222953711-93005cb7-28fb-4341-83b3-1db0a76abe02.jpg)
 
 ![blog1](https://user-images.githubusercontent.com/85272477/222953716-34bc58ce-88d2-41d0-8e2b-617f3c4b8526.jpg)
+
+![blog2](https://user-images.githubusercontent.com/85272477/222956269-87c3c80e-992e-4a83-b657-26a57d75320a.jpg)
 
 --------------
 
