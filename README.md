@@ -1,7 +1,7 @@
 # News-Update
 A web application to update your daily activities built with EJS template having Node.js &amp; Express.js backend.MongoDB
 
-This is a blog website made using Node.js, Express, MongoDB, and EJS templating. The home page of the website uses EJS templating to use a for loop to look up all the existing posts and render them to the screen. The Blog Schema consists of a title, content, and a image buffer which is used to store the image. I am using lodash to create custom post routes so that whenever a new post is generated it has its own route where the whole post can be read.
+This is a blog website made using Node.js, Express, MongoDB, and EJS templating. The home page of the website uses EJS templating to use a for loop to look up all the existing posts and render them to the screen. The Blog Schema consists of a title, content. New post is generated it has its own route where the whole post can be read.
 
 ------------------------
 
