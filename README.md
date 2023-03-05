@@ -22,6 +22,7 @@ Visit http://localhost:3000 on your browser <br>
   JS <br>
   Nodejs <br>
   Ejs Partials <br>
+  MongoDB
   
   -----------
   
